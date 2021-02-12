@@ -3,14 +3,25 @@
 <!--
 **ParrishJ/ParrishJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello! I’m Jared - I’m curious, thoughtful, and always looking to learn more. I enjoy solving complex problems with modern web technology and implementing aesthetically pleasing web design. I have a passion for working with technology across the webstack and specialize in using HTML, CSS, SCSS / LESS,  and JavaScript along with various frameworks and libraries. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some of my favorite front end technologies to work with includes:
+
+* React
+* Redux
+* JavaScript
+* Bootstrap 
+* React Bootstrap
+* LESS  / SCSS
+* Tailwind CSS 
+
+Some back end technologies I enjoy working with include:
+
+* Node.js / express.js
+* knex.js
+* PostgreSQL
+* SQLite
+
+I’m always looking to learn and create new things and aim to add new projects to GitHub on a regular basis. 
+
+Thanks for stopping by! 
